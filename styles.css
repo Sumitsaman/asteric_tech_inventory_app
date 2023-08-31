@@ -1,0 +1,8 @@
+
+.container{
+    background-color: grey;
+    align-items: center;
+}
+.button {
+    cursor: pointer;
+}
